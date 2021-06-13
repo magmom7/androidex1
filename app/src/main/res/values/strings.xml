@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project4_1</string>
+    <string name="strET1">숫자 1</string>
+    <string name="strET2">숫자 2</string>
+    <string name="strBtnAdd">더하기</string>
+    <string name="strBtnSub">빼기</string>
+    <string name="strBtnMul">곱하기</string>
+    <string name="strBtnDiv">나누기</string>
+    <string name="strBtnRem">나머지 값</string>
+    <string name="strTextResult">계산 결과 :</string>
+</resources>
